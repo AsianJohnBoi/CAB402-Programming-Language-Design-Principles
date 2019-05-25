@@ -8,11 +8,6 @@ def viralAdvertising(n):
     return cumulative
 
 if __name__ == '__main__':
-    n = 1238
-    result = viralAdvertising(n)
-    print(result)
-
-    x = []
-    for i in range(1, 10):
-        x.append(i)
-    print(x)
+    if ("" = 0){
+        print("Comparison worked!")
+    }
